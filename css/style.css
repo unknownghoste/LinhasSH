@@ -1,6 +1,9 @@
 .map-responsive{
   position: static;
   overflow: hidden;
+  max-width: 100%; 
+  max-height: 80vh; 
+  width: 100%; 
 }
 .site-footer
 {
