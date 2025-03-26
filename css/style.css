@@ -14,6 +14,12 @@
   color:#737373;
 }
 
+.accordion-container {
+  max-width: 500px;
+  margin: auto;
+}
+
+
 .site-footer hr.small
 {
   margin:20px 0
